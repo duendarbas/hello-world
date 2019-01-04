@@ -1,5 +1,4 @@
 # hello-world
-first repository on GitHub
 
 My name is Duendar and I am a complete noob if it comes to programming.
 
